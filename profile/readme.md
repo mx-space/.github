@@ -1,6 +1,6 @@
 # Hey, this is Mix Space 👋
 
-<img src="https://cdn.jsdelivr.net/gh/mx-space/.github@main/uwu.png" />
+<img src="https://cdn.jsdelivr.net/gh/mx-space/.github@main/logo.png" alt="mx-space" width="420" />
 
 Mix Space is a personal space, that can also be used as a personal blog, more comprehensive feature, and continuous update.
 
@@ -29,7 +29,3 @@ We also have ecosystems.
   - [ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy), [ProcessReporterWin](https://github.com/ChingCdesu/ProcessReporterWin), [WinProcessReporter](https://github.com/rdp-studio/WinProcessReporter), for Windows users.
 
 The documentation is ready. [Go](https://github.com/mx-space/docs).
-
----
-
-This uwu logo was created by [Arthals](https://github.com/zhuozhiyongde) and all rights reserved.
