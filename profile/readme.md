@@ -4,7 +4,7 @@
 
 Mix Space is a personal space, that can also be used as a personal blog, more comprehensive feature, and continuous update.
 
-[Live Preview](https://innei.in)
+[Live Preview](https://innei.in) · [Telegram Group](https://t.me/+lRRxARqVZC1mYTc9)
 
 We have 2 core repositories.
 
